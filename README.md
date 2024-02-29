@@ -8,3 +8,7 @@
 - ~Liquidity~
 - Stable
 - Flexible
+
+### Goals
+- KPI
+- Profit
