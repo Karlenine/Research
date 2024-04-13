@@ -5,7 +5,6 @@
 ### Best options
 
 - Safety
-- ~Liquidity~
 - Stable
 - Flexible
 
