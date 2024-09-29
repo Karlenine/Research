@@ -1,11 +1,9 @@
 # Research
-https://poh.linea.build/
-
+- Linea (Q4 2025)
 
 ## Market area
 
 ### Best options
-
 - Safety
 - Stable
 - Flexible
