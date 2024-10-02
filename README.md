@@ -1,5 +1,6 @@
 # Research
 - Linea (Q4 2025)
+- Pipe Network
 
 ## Market area
 
@@ -17,5 +18,3 @@
 - Layer3
 - BonusBlock
 - Twitter (X)
-
-### Market crash
