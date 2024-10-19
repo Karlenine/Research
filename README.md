@@ -14,7 +14,6 @@
 - Profit
 
 ### Web3 Market
-- ~Zealy~
 - Layer3
 - BonusBlock
 - Twitter (X)
