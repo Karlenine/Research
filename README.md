@@ -10,7 +10,7 @@
 - Flexible
 
 ### Goals
-- KPI
+- KPI and OKR
 - Profit
 
 ### Web3 Market
