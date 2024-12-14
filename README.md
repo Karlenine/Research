@@ -1,5 +1,5 @@
 # Research
-- ~Linea (Q4 2025)~
+- [x] Linea (Q4 2025)
 - Pipe Network
 - Story Protocol
 - Mitosis
