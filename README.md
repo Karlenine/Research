@@ -1,6 +1,9 @@
 # Research
-- Linea (Q4 2025)
+~- Linea (Q4 2025)~
 - Pipe Network
+- Story Protocol
+- Mitosis
+- Lombard
 
 ## Market area
 
