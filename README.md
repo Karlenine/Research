@@ -20,3 +20,6 @@
 - Layer3
 - BonusBlock
 - Twitter (X)
+
+### Faucet
+[Super Chain](https://console.optimism.io/faucet)
