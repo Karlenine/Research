@@ -17,9 +17,10 @@
 - Profit
 
 ### Web3 Market
-- Layer3
+- ~Layer3~
 - BonusBlock
 - Twitter (X)
+- Zealy
 
 ### Faucet
 [Super Chain](https://console.optimism.io/faucet)
