@@ -1,7 +1,7 @@
 # Research
 - [x] Linea (Q4 2025)
 - [ ] Pipe Network
-- [ ] Story Protocol
+- [x] Story Protocol
 - [ ] Mitosis
 - [ ] Lombard
 
