@@ -1,6 +1,5 @@
 # Research
-- [ ] Linea (Q4 2025)
-- [ ] Pipe Network
+- [ ] Linea (Q4 2025?)
 - [x] Story Protocol
 - [ ] Mitosis
 - [ ] Lombard
@@ -19,9 +18,5 @@
 
 ### Web3 Market
 - ~Layer3~
-- BonusBlock
 - Twitter (X)
 - Zealy
-
-### Faucet
-[Super Chain](https://console.optimism.io/faucet)
