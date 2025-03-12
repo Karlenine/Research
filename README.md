@@ -2,8 +2,8 @@
 - [ ] Linea (Q4 2025?)
 - [x] Story Protocol
 - [ ] Mitosis
-- [ ] Lombard
 - [ ] Meteora
+- [ ] HyperLane
 
 ## Market area
 
